@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Junior QA / Testing Engineer
 
-I am an entry-level **QA / Testing Engineer** with hands-on practice in
+I am a Junior QA / Testing Engineer with hands-on practice in
 **manual testing**, **API testing**, and **test case design**.
 
 My focus is on supporting software teams by validating functionality,
