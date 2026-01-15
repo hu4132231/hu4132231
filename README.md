@@ -1,46 +1,57 @@
-# API Testing Practice
+# 👋 Hi, I'm a Junior QA / Testing Engineer
 
-This repository is a hands-on practice project for learning and applying
-basic **API testing** and **QA workflows**.
+I am an entry-level **QA / Testing Engineer** with hands-on practice in
+**manual testing**, **API testing**, and **test case design**.
 
----
-
-## 🔍 Project Scope
-
-### Completed
-- API testing using Postman
-- Basic test case design for RESTful APIs
-- Response validation (status code, payload structure)
-- Test case documentation
-
-### In Progress
-- Expanding API test coverage
-- Improving test case clarity and organization
-
-### Planned
-- Exploring basic automation testing concepts
-- Improving QA documentation structure
+My focus is on supporting software teams by validating functionality,
+identifying defects, and ensuring stable releases.
 
 ---
 
-## 🛠 Tools Used
+## 🧪 Core Skills
+
+### Manual Testing
+- Test case design based on requirements
+- Functional and regression testing
+- Bug reporting with clear reproduction steps
+
+### API Testing
+- RESTful API testing using Postman
+- Status code, response body, and error handling validation
+- Basic test scenario design for APIs
+
+---
+
+## 🛠 Tools & Technologies
 
 - Postman
 - Git / GitHub
 - JSON
-- Basic command line usage
+- Basic Linux / Command Line
+- Python (basic, for future automation learning)
 
 ---
 
-## 📂 Project Structure
+## 📂 QA Practice Projects
 
-- `postman/` – Postman collections and API requests
-- `test-cases/` – Test case documentation
-- `README.md` – Project overview and progress
+### 🔹 API Testing – Reqres Public API
+- Designed test cases for common API scenarios (GET / POST / PUT / DELETE)
+- Verified response status codes and payload structures
+- Documented test results and findings
+
+👉 Repository:
+https://github.com/hu4132231/api-testing-practice
 
 ---
 
-## 🎯 Purpose
+## 🎯 Currently Learning
 
-This project is created to demonstrate my learning progress and practical
-experience as a **Junior QA / Testing Engineer**.
+- Improving test case design quality
+- Learning basic automation testing concepts
+- Practicing QA workflows using GitHub
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/hu4132231
