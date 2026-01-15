@@ -1,7 +1,7 @@
 # 👋 Hi, I'm a Junior QA / Testing Engineer
 
 I am a QA / Testing Engineer with hands-on practice in
-manual testing, API testing, and test case design.
+**manual testing**, **API testing**, and **test case design**.
 
 My focus is on supporting software teams by validating functionality,
 identifying defects, and ensuring stable releases.
@@ -27,7 +27,7 @@ identifying defects, and ensuring stable releases.
 - Postman
 - Git / GitHub
 - JSON
-- Basic Linux / Command Line
+- Basic Linux / Command Line (navigation & basic commands)
 - Python (basic, for future automation learning)
 
 ---
@@ -38,6 +38,9 @@ identifying defects, and ensuring stable releases.
 - Designed test cases for common API scenarios (GET / POST / PUT / DELETE)
 - Verified response status codes and payload structures
 - Documented test results and findings
+
+This project focuses on practicing API testing workflows
+and test case documentation for QA roles.
 
 👉 Repository:
 https://github.com/hu4132231/api-testing-practice
