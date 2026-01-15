@@ -1,52 +1,46 @@
-# 👋 Hi, I'm a Junior Testing Engineer (QA)
+# API Testing Practice
 
-I am an entry-level QA / Testing Engineer focusing on **manual testing**, **API testing**, and **test case design**.
-
-Currently preparing for **Junior Testing Engineer / QA roles**, with hands-on practice in real-world testing scenarios.
-
----
-
-## 🧪 Skills & Tools
-
-- **Manual Testing**
-  - Test case design
-  - Functional testing
-  - Regression testing
-  - Bug reporting & tracking
-
-- **API Testing**
-  - Postman
-  - RESTful APIs
-  - Status code & response validation
-
-- **Tools & Technologies**
-  - Git / GitHub
-  - Postman
-  - Basic Linux / Command Line
-  - JSON
+This repository is a hands-on practice project for learning and applying
+basic **API testing** and **QA workflows**.
 
 ---
 
-## 📂 QA Portfolio
+## 🔍 Project Scope
 
-### 🔹 API Testing Project
-- **Reqres API Testing**
-  - Designed test cases for public REST APIs
-  - Verified response status, headers, and payload
-  - Documented test results and issues
+### Completed
+- API testing using Postman
+- Basic test case design for RESTful APIs
+- Response validation (status code, payload structure)
+- Test case documentation
 
-👉 Repository: *(coming soon)*
+### In Progress
+- Expanding API test coverage
+- Improving test case clarity and organization
 
----
-
-## 🎯 Learning & Growth
-
-- Strengthening test case design skills
-- Learning basic automation concepts
-- Practicing Git-based workflow for QA projects
+### Planned
+- Exploring basic automation testing concepts
+- Improving QA documentation structure
 
 ---
 
-## 📫 Contact
+## 🛠 Tools Used
 
-- GitHub: https://github.com/hu4132231
+- Postman
+- Git / GitHub
+- JSON
+- Basic command line usage
+
+---
+
+## 📂 Project Structure
+
+- `postman/` – Postman collections and API requests
+- `test-cases/` – Test case documentation
+- `README.md` – Project overview and progress
+
+---
+
+## 🎯 Purpose
+
+This project is created to demonstrate my learning progress and practical
+experience as a **Junior QA / Testing Engineer**.
