@@ -58,3 +58,4 @@ https://github.com/hu4132231/api-testing-practice
 ## 📫 Contact
 
 - GitHub: https://github.com/hu4132231
+- More details about my background can be found in my resume.
