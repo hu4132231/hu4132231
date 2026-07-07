@@ -4,7 +4,7 @@ I have a background in online Python / Scratch programming instruction, where I 
 
 I am currently transitioning into IT support, QA testing, API testing, and Python automation roles. My focus is on supporting teams through clear documentation, issue tracking, data processing, and practical problem-solving.
 
-I am building hands-on projects in Python CSV report automation, API testing, GitHub documentation, and basic backend development.
+I am building hands-on projects in Python CSV report automation, API testing, GitHub documentation, and basic backend development practice.
 
 ---
 
