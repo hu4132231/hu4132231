@@ -38,7 +38,7 @@ I am building hands-on projects in Python CSV report automation, API testing, Gi
 - Git / GitHub
 - CSV
 - JSON
-- Basic Linux / Command Line
+- Basic Linux / Command Line operations
 - Basic API testing concepts
 
 ---
