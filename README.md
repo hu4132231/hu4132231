@@ -1,91 +1,102 @@
-# 👋 Hi, I'm Jill | IT Support / QA / Python Automation
+# Hi, I'm Jill 👋
 
-I have a background in online Python / Scratch programming instruction, where I helped learners understand programming logic, troubleshoot errors, and break technical problems into clear steps.
+## QA / API Testing / Python Automation Portfolio
 
-I am currently transitioning into IT support, QA testing, API testing, and Python automation roles. My focus is on supporting teams through clear documentation, issue tracking, data processing, and practical problem-solving.
+I have several years of experience as an online Python instructor, helping learners understand programming logic, reproduce errors, inspect program behavior, and break technical problems into clear troubleshooting steps.
 
-I am building hands-on projects in Python CSV report automation, API testing, GitHub documentation, and basic backend development practice.
+I am currently transitioning into software QA, API testing, product technical support, and Python automation roles.
 
 ---
 
 ## 🧪 Core Skills
 
-### Python / Data Processing
-- Python scripting basics
-- CSV data processing with pandas
-- Data grouping, filtering, and report generation
-- Simple report automation projects
+### API Testing & QA
+- REST API functional and negative testing with Postman
+- HTTP status code, JSON response, required-field, and data-type validation
+- Test case design and repeatable test workflows
+- Issue reproduction, test evidence, and documentation
 
-### API / QA Testing
-- API testing practice using Postman
-- HTTP status code and response validation
-- Basic test case documentation
-- Bug reproduction and issue tracking
+### Python Automation & Data Processing
+- CSV and Excel data processing with Python and pandas
+- Excel report generation with openpyxl
+- Desktop tool development with Tkinter
+- CRUD API development with Django REST Framework and SQLite
 
-### IT Support / Documentation
-- Technical problem breakdown
-- User support and troubleshooting
-- README and process documentation
-- Clear communication with non-technical users
+### Troubleshooting & Documentation
+- Error-message analysis and issue reproduction
+- Step-by-step problem investigation
+- README, setup guide, and testing-process documentation
+- Git and GitHub version control
+
+---
+
+## 📂 Featured Projects
+
+### 🎫 Ticket Tracker API
+
+Django REST Framework Ticket CRUD API with Postman testing.
+
+- Built REST API endpoints for creating, retrieving, updating, and deleting tickets
+- Tested HTTP status codes, JSON responses, required fields, data types, and invalid input
+- Designed 24 test cases with 91 passing assertions
+- Used Postman variables to connect test steps and clean up test data
+- Documented environment setup, API operations, and testing workflow
+
+[View Repository](https://github.com/hu4132231/ticket-tracker-api)
+
+---
+
+### 📊 Shopee Sales Report Tool
+
+Python desktop application for processing Shopee order files and generating formatted Excel sales reports.
+
+- Built a Windows desktop interface with Tkinter
+- Processed order data and generated formatted Excel reports
+- Used field-name matching instead of fixed column positions
+- Added handling for missing fields, unfinished orders, incorrect passwords, and output errors
+- Packaged the application with PyInstaller
+
+[View Repository](https://github.com/hu4132231/shopee-sales-report-tool)
+
+---
+
+### 📈 Sales & Support Report Automation
+
+Python automation project for sales, inventory, and customer-support CSV data.
+
+- Read and processed multiple CSV reports with pandas
+- Organized sales, inventory, and support-ticket data
+- Checked required fields and incomplete data
+- Generated reusable summary reports
+- Documented setup instructions and example data
+
+[View Repository](https://github.com/hu4132231/sales-support-report-automation)
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Python
-- pandas
-- Postman
-- Git / GitHub
-- CSV
-- JSON
-- Basic Linux / Command Line operations
-- Basic API testing concepts
+`Python` `pandas` `Django` `Django REST Framework` `Postman`  
+`SQLite` `Git` `GitHub` `openpyxl` `Tkinter` `CSV` `JSON`
 
 ---
 
-## 📂 Projects
+## 💼 Career Focus
 
-### 🔹 sales-support-report-automation
+I am seeking junior opportunities in:
 
-Python CSV report automation project for sales, inventory, and support ticket data.
+- Software QA and testing
+- API testing
+- SaaS or product technical support
+- Python automation
+- Junior backend API development
 
-- Read multiple CSV files with pandas
-- Calculate daily sales amount
-- Identify best-selling products
-- Find low-stock products
-- Summarize support ticket issue types
-- Export summary_report.csv
-
-Repository:  
-https://github.com/hu4132231/sales-support-report-automation
-
----
-
-### 🔹 API Testing & QA Documentation Practice Project
-
-API testing practice project using Postman and GitHub documentation.
-
-- Designed test cases for common API scenarios
-- Verified HTTP status codes and response data
-- Documented test results and findings
-- Practiced bug reproduction and QA documentation
-
-Repository:  
-https://github.com/hu4132231/api-testing-practice
-
----
-
-## 🎯 Currently Learning
-
-- Python data processing and report automation
-- API testing and QA documentation
-- Git / GitHub workflow
-- Django and basic backend development
-- SQL and Linux fundamentals
+I bring experience in problem breakdown, user communication, remote collaboration, and clear technical documentation.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/hu4132231
-- More details about my background can be found in my resume.
+More information about my experience and projects is available in my resume.
+
+[104 Resume](https://pda.104.com.tw/profile/share/bI7PohDZcCMdAeVoXlD6dR0QssoG9qX2)
