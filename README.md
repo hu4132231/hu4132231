@@ -99,4 +99,4 @@ I bring experience in problem breakdown, user communication, remote collaboratio
 
 More information about my experience and projects is available in my resume.
 
-[104 Resume]([https://pda.104.com.tw/profile/share/bI7PohDZcCMdAeVoXlD6dR0QssoG9qX2](https://pda.104.com.tw/profile/share/bIMWZNdf5D2D1GHNVnr9F4k1fDuJikYR))
+[104 Resume](https://pda.104.com.tw/profile/share/bI6sVZANp44HjWSyfyEnZo9QhIoChEfS)
