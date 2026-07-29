@@ -92,3 +92,11 @@ I am seeking junior opportunities in:
 - Junior backend API development
 
 I bring experience in problem breakdown, user communication, remote collaboration, and clear technical documentation.
+
+---
+
+## 📫 Contact
+
+More information about my experience and projects is available in my resume.
+
+[104 Resume](https://pda.104.com.tw/profile/share/bI7PohDZcCMdAeVoXlD6dR0QssoG9qX2)
